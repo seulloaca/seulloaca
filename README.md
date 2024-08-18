@@ -2,7 +2,7 @@
 Software Engineering student
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,nodejs,html,css,tailwind,bootstrap,react,astro" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,ts,nodejs,html,css,tailwind,bootstrap,react,astro,mysql,mongo" />
   </a>
 </p>
 <p align="center">
