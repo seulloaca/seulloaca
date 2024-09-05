@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Sebastián and I'm a software Engineering student.
+My name is Sebastián and I'm a Software Engineering student.
 <div>
   <h1>Skills</h1>
   <p align="center">
