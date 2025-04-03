@@ -18,7 +18,7 @@ Portfolio: https://sebastianulloa.vercel.app/
 <div>
   <h3>Backend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,php,dotnet" />
   </a>
 </div>
 <div>
@@ -30,6 +30,6 @@ Portfolio: https://sebastianulloa.vercel.app/
 <div>
   <h3>Currently learning</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,flutter,dotnet" />
+    <img src="https://skillicons.dev/icons?i=docker,flutter" />
   </a>
 </div>
